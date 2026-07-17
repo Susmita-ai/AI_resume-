@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pdfplumber
+pymupdf
+easyocr
+opencv-python-headless
+Pillow
+spacy
+nltk
+plotly
+joblib
+reportlab
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
